@@ -118,7 +118,6 @@ nav {
 
 .hero-right-bottom {
   max-width: 430px;
-  border: 2px solid yellow;
   background-color: #ffffff;
   display: flex;
   gap: 5px;
@@ -828,7 +827,7 @@ hr {
   body br {
     display: none;
   }
-  
+
   nav {
     margin: 0px;
   }
