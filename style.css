@@ -21,16 +21,14 @@ img {
 
 .hero-section {
   margin: 0px auto;
-  border: 2px solid black;
   display: flex;
   flex-direction: column;
   background-color: #626c78;
-  /* padding: 50px 150px; */
 }
 
 nav {
   width: 80%;
-  margin: 20px auto;
+  margin: 30px auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -588,23 +586,9 @@ hr {
   text-transform: capitalize;
 }
 
-
-
-
-
 /* --------------------- Responsiveness -------------------- */
 
-
-
-
-
-
-
-
-
-
 @media screen and (max-width: 1200px) {
-  
   .hero-section {
     width: auto;
     padding: 0px 50px;
@@ -844,7 +828,7 @@ hr {
   body br {
     display: none;
   }
-
+  
   nav {
     margin: 0px;
   }
@@ -990,8 +974,6 @@ hr {
     width: 300px;
     max-width: 100%;
   }
-
-
 
   /* ---- Footer Section ----- */
 
