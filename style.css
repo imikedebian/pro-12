@@ -859,8 +859,7 @@ hr {
 
   .stats-section,
   .feature-section,
-  .team-section,
-  .footer-section {
+  .team-section {
     margin: 20px;
   }
 
@@ -1005,6 +1004,7 @@ hr {
   }
 
   .footer-sec-top {
+    margin-top: 30px;
     flex-direction: column;
     align-items: center;
     gap: 20px;
